@@ -17,6 +17,7 @@ This triggered readings on various related subjects :
 - [domain adaptation](https://github.com/hassony2/inria/wiki/domain-adaptation-papers)
 - [grasp recognition](https://github.com/hassony2/inria/wiki/grasp-papers)
 - [hand pose estimation](https://github.com/hassony2/inria/wiki/hand-papers)
+- [object detection](https://github.com/hassony2/inria/wiki/detection-papers)
 - [semantic segmentation](https://github.com/hassony2/inria/wiki/segmentation-papers)
 
 
