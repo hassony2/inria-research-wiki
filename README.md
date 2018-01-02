@@ -19,6 +19,7 @@ This triggered readings on various related subjects :
 - [hand pose estimation](https://github.com/hassony2/inria/wiki/hand-papers)
 - [object detection](https://github.com/hassony2/inria/wiki/detection-papers)
 - [semantic segmentation](https://github.com/hassony2/inria/wiki/segmentation-papers)
+- [other](https://github.com/hassony2/inria/wiki/other-papers) (when a paper doesn't fall in one of the aforementionned categories)
 
 
 - [general papers about deep learning](https://github.com/hassony2/inria/wiki/deep-learning-papers)
