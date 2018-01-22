@@ -12,13 +12,15 @@ My research subject is action recognition in first-person view videos (filmed on
 This triggered readings on various related subjects :
 
 - [action recognition](https://github.com/hassony2/inria/wiki/action-papers)
-- [adverserial papers](https://github.com/hassony2/inria/wiki/adverserial-papers)
+- [adverserial attacks](https://github.com/hassony2/inria/wiki/adverserial-papers)
 - [body pose estimation](https://github.com/hassony2/inria/wiki/body-papers)
 - [domain adaptation](https://github.com/hassony2/inria/wiki/domain-adaptation-papers)
 - [grasp recognition](https://github.com/hassony2/inria/wiki/grasp-papers)
 - [hand pose estimation](https://github.com/hassony2/inria/wiki/hand-papers)
 - [object detection](https://github.com/hassony2/inria/wiki/detection-papers)
+- [optical flow](https://github.com/hassony2/inria/wiki/optical-flow-papers)
 - [semantic segmentation](https://github.com/hassony2/inria/wiki/segmentation-papers)
+
 - [other](https://github.com/hassony2/inria/wiki/other-papers) (when a paper doesn't fall in one of the aforementionned categories)
 
 
