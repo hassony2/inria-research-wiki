@@ -26,6 +26,8 @@ This triggered readings on various related subjects :
 
 - [general papers about deep learning](https://github.com/hassony2/inria/wiki/deep-learning-papers)
 
+- [best practices](https://github.com/hassony2/inria/wiki/best-practices) on working with video datasets and doing deep-learning based experiments
+
 These notes are primarly intended for myself and will therefore probably contain a lot of typos and hopefully not that many errors !
 
 I believe that in the french quote "Ce qui se conçoit bien s'énonce clairement - Et les mots pour le dire arrivent aisément" (*L'Art poétique* by Nicolas Boileau-Despréaux (1674)), which roughly translates to "what you clearly understand is easy to explain - and words come easy".
