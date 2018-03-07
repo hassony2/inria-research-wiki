@@ -20,6 +20,8 @@ This triggered readings on various related subjects :
 - [object detection](https://github.com/hassony2/inria/wiki/detection-papers)
 - [optical flow](https://github.com/hassony2/inria/wiki/optical-flow-papers)
 - [semantic segmentation](https://github.com/hassony2/inria/wiki/segmentation-papers)
+- [object tracking](https://github.com/hassony2/inria/wiki/tracking-papers)
+
 - [network visualization](https://github.com/hassony2/inria/wiki/visualization-papers)
 
 - [other](https://github.com/hassony2/inria/wiki/other-papers) (when a paper doesn't fall in one of the aforementionned categories)
