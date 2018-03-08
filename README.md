@@ -37,7 +37,7 @@ I believe that in the french quote "Ce qui se conçoit bien s'énonce clairement
 
 My goal is indeed to clearly understand all these annotated papers, therefore, I hope that my notes can be easily understood by anyone who has an interest in these papers.
 
-If not, it might be that it is not that clear in my head after all, so feel free to reach out to firstnamelastname@inria.fr and I'll be glad to take another look at the paper and discuss it.
+If not, it might be that it is not that clear in my head after all, so feel free to reach out to firstname.lastname@inria.fr and I'll be glad to take another look at the paper and discuss it.
 
 Enough said ! Head to the [wiki](https://github.com/hassony2/inria/wiki).
 
