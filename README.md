@@ -18,6 +18,7 @@ This triggered readings on various related subjects :
 - [grasp recognition](https://github.com/hassony2/inria/wiki/grasp-papers)
 - [hand pose estimation](https://github.com/hassony2/inria/wiki/hand-papers)
 - [object detection](https://github.com/hassony2/inria/wiki/detection-papers)
+- [object reconstruction](https://github.com/hassony2/inria/wiki/object-reconstruction-papers)
 - [optical flow](https://github.com/hassony2/inria/wiki/optical-flow-papers)
 - [semantic segmentation](https://github.com/hassony2/inria/wiki/segmentation-papers)
 - [object tracking](https://github.com/hassony2/inria/wiki/tracking-papers)
